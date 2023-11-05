@@ -1,3 +1,3 @@
 # SuperChat
 SuperChat uses HuggingFace ChatUI.
-We are planning to make SuperChat run on Zephyr 7b.
+SuperChat files will be posted here, but SuperChat itself will be live on huggingface.co soon.
